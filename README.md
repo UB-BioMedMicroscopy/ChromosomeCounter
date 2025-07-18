@@ -50,7 +50,7 @@ This Fiji/ImageJ (version 1.54p) macro provides a semi-automated pipeline to eff
 
 ## 📚 Citation
 
-If you use this macro in your research, please us.
+If you use this macro in your research, please cite us.
 
 ---
 
