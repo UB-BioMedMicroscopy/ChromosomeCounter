@@ -23,7 +23,7 @@ This Fiji/ImageJ (version 1.54p) macro provides a semi-automated pipeline to eff
 
 ## 🖥️ Requirements
 
-- Fiji/ImageJ version 1.54p with Bio-Formats plugin  
+- Fiji/ImageJ version 1.54p with Bio-Formats plugin.
 - `.lif` image files containing multi-series microscopy data
 
 ---
